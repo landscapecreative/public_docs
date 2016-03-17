@@ -1,1 +1,3 @@
-# Landscape Creative Documentation
+Public Landscape Creative Documention
+
+http://docs.landscapecreative.com
